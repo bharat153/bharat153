@@ -1,10 +1,10 @@
-[MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS64S9OmqvISkRtTYGkRfpd4ijNPU-IX0lF1w&usqp=CAU)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS64S9OmqvISkRtTYGkRfpd4ijNPU-IX0lF1w&usqp=CAU)]
 
 <h1 align="center">Hi 👋, I'm Bharat Kumar V</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat153&label=Profile%20views&color=0e75b6&style=flat" alt="bharat153" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
