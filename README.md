@@ -1,6 +1,4 @@
-
-
-[![MasterHead](https://encrypted-tbn0.gstatic.com/ima[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS64S9OmqvISkRtTYGkRfpd4ijNPU-IX0lF1w&usqp=CAU)](https://rishavchanda.io)
+[MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS64S9OmqvISkRtTYGkRfpd4ijNPU-IX0lF1w&usqp=CAU)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Bharat Kumar V</h1>
 
